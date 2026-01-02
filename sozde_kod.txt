@@ -1,0 +1,7 @@
+ALGORİTMA: LCG Tabanlı RSÜ
+1. Başlangıç parametrelerini (a, c, m) ve Seed değerini belirle.
+2. Formülü uygula: Yeni_Deger = (a * Seed + c) mod m
+3. Çıkan sayıyı ikilik (binary) sisteme dönüştür.
+4. İstenen bit uzunluğuna (1000 bit vb.) ulaşana kadar 2. adıma dön.
+5. Oluşan bit dizisini testlere (Frekans ve Ki-Kare) gönder.
+6. Test sonuçlarını raporla.
