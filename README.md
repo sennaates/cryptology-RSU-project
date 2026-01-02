@@ -29,15 +29,6 @@ Algoritmanın bir anahtar olarak kullanılabilirliğini kanıtlamak için iki an
 
 ---
 
-## 📂 Depo İçeriği
-Hocamızın istediği tüm materyaller aşağıda listelenmiştir:
-* `rsu_proje.py`: Algoritmanın kaynak kodu.
-* `akis_semasi.png`: Algoritmanın mantıksal işleyiş şeması.
-* `sozde_kod.txt`: Algoritmanın adım adım açıklaması (Pseudo-code).
-* `test_sonuclari.txt`: Kodun ürettiği çıktıların ve testlerin raporu.
-
----
-
 ## 🚀 Nasıl Çalıştırılır?
 Projenin çıktılarını gözlemlemek için Python yüklü bir terminalde şu komutu çalıştırmanız yeterlidir:
 ```bash
