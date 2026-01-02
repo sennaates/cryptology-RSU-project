@@ -4,4 +4,5 @@ ALGORİTMA: LCG Tabanlı RSÜ
 3. Çıkan sayıyı ikilik (binary) sisteme dönüştür.
 4. İstenen bit uzunluğuna (1000 bit vb.) ulaşana kadar 2. adıma dön.
 5. Oluşan bit dizisini testlere (Frekans ve Ki-Kare) gönder.
+
 6. Test sonuçlarını raporla.
